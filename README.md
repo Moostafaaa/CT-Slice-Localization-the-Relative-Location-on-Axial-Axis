@@ -11,7 +11,6 @@ Predicting the relative anatomical position of CT scan slices (0–100 scale) fr
 | XGBoost + Optuna         | 2.5808  | 5.1946  | 0.9416   | 10.6%                         |
 | Best NN (CNN1D) + Optuna | 1.75505 | 3.19588 | 0.977903 | 39.2%                         |
 
-> **10.6% MAE improvement** over baseline — ~4.6 cm average error on a full-body scan.
 
 ## Approaches
 
